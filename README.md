@@ -15,8 +15,6 @@
 <img src='https://raw.githubusercontent.com/AdityaKumar28/AdityaKumar28/main/animation.gif' whidth=150, height=210/>
 </div>
 
-##
-
 <ul>
   <li>🔭 Olá, sou Jeanderson Alcantara, tenho 28 anos e estou me especializando como desenvolvedor Front-end 
   <li>🌱 Estou aprendendo: 
@@ -30,14 +28,16 @@
 <li>🤔 Atualmente: Estudando Analise e Desenvolvimento de Sistemas (Esátio de Sá / 2º Periodo) </li>
 <li>⚡ Nas horas vagas gosto de dançar. As aulas de dança é o suspiro da alma </li>
 <li>💬 Habilidade: Conversar em público / Trabalho em equipe / Ingles-Avançado</li>
-
 </ul>
-
-
+<br>
+<div align='center'>
+<a href="https://github.com/jeanderson-mab">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanderson-mab&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanderson-mab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Contatos:
-
-<div>
+<div >
 <a href="https://instagram.com/jeanderson.mab" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jeanderson-martins-de-alcantara-barbosa-3837826a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
