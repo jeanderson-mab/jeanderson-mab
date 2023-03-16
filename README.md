@@ -25,7 +25,7 @@
       <p>Alura.com / Desde: Novembro-2022</p>
   </ol>
 <li>👯 Su formado em Química-UFU. Lecionei por 5 anos para alunos do fundamental ao pré-vestibular. Mas estou mudando de área</li>
-<li>🤔 Atualmente: Estudando Analise e Desenvolvimento de Sistemas (Esátio de Sá / 2º Periodo) </li>
+<li>🤔 Atualmente: Estudando Analise e Desenvolvimento de Sistemas (Estácio de Sá / 2º Periodo) </li>
 <li>⚡ Nas horas vagas gosto de dançar. As aulas de dança é o suspiro da alma </li>
 <li>💬 Habilidade: Conversar em público / Trabalho em equipe / Ingles-Avançado</li>
 </ul>
